@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/valaprashant97/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/valaprashant97/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/valaprashant97/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/valaprashant97/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valaprashant97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/valaprashant97/leetcode-solutions/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
