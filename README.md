@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/valaprashant97/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/valaprashant97/leetcode-solutions/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valaprashant97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/valaprashant97/leetcode-solutions/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/valaprashant97/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
