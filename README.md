@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/valaprashant97/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/valaprashant97/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/valaprashant97/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/valaprashant97/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/valaprashant97/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 ## Newton's Method
 |  |
 | ------- |
