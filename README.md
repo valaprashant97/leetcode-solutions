@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/valaprashant97/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0470-implement-rand10-using-rand7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -163,12 +164,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
