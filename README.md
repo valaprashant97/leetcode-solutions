@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/valaprashant97/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/valaprashant97/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/valaprashant97/leetcode-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valaprashant97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/valaprashant97/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/valaprashant97/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/valaprashant97/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/valaprashant97/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/valaprashant97/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/valaprashant97/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
