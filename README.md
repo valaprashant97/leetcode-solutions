@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
@@ -199,8 +200,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
