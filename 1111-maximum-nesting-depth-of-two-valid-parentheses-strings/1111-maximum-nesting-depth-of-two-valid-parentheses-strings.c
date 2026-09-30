@@ -15,7 +15,7 @@ int* maxDepthAfterSplit(char* seq, int* returnSize) {
             ans[i] = depth % 2;
         } else {
             ans[i] = depth % 2;
-            depth++;
+            depth--;
         }
     }
 
