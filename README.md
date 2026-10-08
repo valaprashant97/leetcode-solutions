@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/valaprashant97/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/valaprashant97/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valaprashant97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/valaprashant97/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/valaprashant97/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/valaprashant97/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
