@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/valaprashant97/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/valaprashant97/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/valaprashant97/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/valaprashant97/leetcode-solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/valaprashant97/leetcode-solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/valaprashant97/leetcode-solutions/tree/master/0089-gray-code) |
 ## Manacher
 |  |
 | ------- |
