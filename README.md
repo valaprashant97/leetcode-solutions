@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/valaprashant97/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/valaprashant97/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/valaprashant97/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/valaprashant97/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
