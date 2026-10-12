@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/valaprashant97/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/valaprashant97/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/valaprashant97/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0470-implement-rand10-using-rand7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/valaprashant97/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/valaprashant97/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Sorting
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/valaprashant97/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/valaprashant97/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/valaprashant97/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
