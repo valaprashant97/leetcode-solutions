@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0598-range-addition-ii](https://github.com/valaprashant97/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/valaprashant97/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/valaprashant97/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/valaprashant97/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/valaprashant97/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
