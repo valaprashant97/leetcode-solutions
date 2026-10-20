@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/valaprashant97/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/valaprashant97/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/valaprashant97/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/valaprashant97/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/valaprashant97/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Polygons
 |  |
 | ------- |
