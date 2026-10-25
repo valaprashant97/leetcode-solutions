@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/valaprashant97/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/valaprashant97/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/valaprashant97/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -308,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/valaprashant97/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
