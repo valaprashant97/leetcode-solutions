@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/valaprashant97/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/valaprashant97/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/valaprashant97/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/valaprashant97/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/valaprashant97/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/valaprashant97/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/valaprashant97/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/valaprashant97/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/valaprashant97/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/valaprashant97/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/valaprashant97/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/valaprashant97/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
