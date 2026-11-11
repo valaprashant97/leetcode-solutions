@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/valaprashant97/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/valaprashant97/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1154-day-of-the-year](https://github.com/valaprashant97/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/valaprashant97/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/valaprashant97/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1518-water-bottles](https://github.com/valaprashant97/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/valaprashant97/leetcode-solutions/tree/master/0504-base-7) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/valaprashant97/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/valaprashant97/leetcode-solutions/tree/master/2409-count-days-spent-together) |
