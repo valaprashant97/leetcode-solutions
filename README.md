@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/valaprashant97/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/valaprashant97/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/valaprashant97/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/valaprashant97/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/valaprashant97/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/valaprashant97/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/valaprashant97/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/valaprashant97/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/valaprashant97/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
