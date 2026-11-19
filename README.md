@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/valaprashant97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/valaprashant97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/valaprashant97/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/valaprashant97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/valaprashant97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/valaprashant97/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/valaprashant97/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/valaprashant97/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/valaprashant97/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/valaprashant97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/valaprashant97/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/valaprashant97/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/valaprashant97/leetcode-solutions/tree/master/0415-add-strings) |
