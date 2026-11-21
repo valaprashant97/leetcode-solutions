@@ -370,12 +370,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/valaprashant97/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/valaprashant97/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/valaprashant97/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/valaprashant97/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/0100-same-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/valaprashant97/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/0100-same-tree) |
 ## Trie
 |  |
 | ------- |
