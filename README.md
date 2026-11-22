@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/valaprashant97/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/valaprashant97/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/valaprashant97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/valaprashant97/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/valaprashant97/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valaprashant97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0169-majority-element) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/valaprashant97/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/valaprashant97/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/valaprashant97/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0148-sort-list) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/valaprashant97/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/valaprashant97/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
