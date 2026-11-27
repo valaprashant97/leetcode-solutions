@@ -52,5 +52,5 @@ int** permute(int* nums, int numsSize,
     free(used);
     free(path);
 
-    return result++;
+    return result;
 }
