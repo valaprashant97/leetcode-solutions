@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/valaprashant97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/valaprashant97/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/valaprashant97/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/valaprashant97/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/valaprashant97/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/valaprashant97/leetcode-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/valaprashant97/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/valaprashant97/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/valaprashant97/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/valaprashant97/leetcode-solutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/valaprashant97/leetcode-solutions/tree/master/0089-gray-code) |
 ## Manacher
 |  |
